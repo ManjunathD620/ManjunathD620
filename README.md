@@ -8,9 +8,6 @@ Welcome to my GitHub profile! I’m passionate about full-stack development, dat
 - Developing scalable web apps with React, Node.js, MongoDB, and cloud platforms
 - Exploring deep learning and data science through real-time datasets and AI applications
 
-## 🌱 I’m Currently Learning
-Pursuing a Diploma in Computer Science (BTEC CSE) while advancing my knowledge in cloud technologies and modern web frameworks.
-
 ## 💞️ Collaborative Work
 - Open to contributions or collaboration on projects in:  
   - **Web development** (React, Node.js, Django)  
